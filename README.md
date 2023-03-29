@@ -1,7 +1,7 @@
 # AstralHerd
 Project repo for XP Link Jam 2022.  
-This game was developed over the course of 44 hours for the XP Link Gamejam 2022.  
-[Sad_AI](https://github.com/Sad-AI-dev) is the sole developer of this project.  
+This game was developed over the course of 44 hours for the XP-Link Gamejam 2022.  
+[Sad-AI-dev](https://github.com/Sad-AI-dev) is the sole developer of this project.  
 All assests were created within the timeframe of the gamejam, except for the music, sounds and fonts.
 
 ## The Game
