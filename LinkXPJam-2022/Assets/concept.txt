@@ -1,0 +1,35 @@
+THEME: Guardian/Keeper
+
+-- idea 1: --
+AI are drawn to a central object (gate, pillar, whatever)
+player knocks enemy back to kill them
+
+waves get harder
+
+gameover when enough damage is done to central object.
+
+-very basic
++experience, easy
+
+
+--idea 2: --
+platformer, collect pieces of shattered seal,
+combine all to pieces to 'win'
+
+can't attack, only 'guard' and parry?
+
+-not very fun -> try to come up with a more fun mechanic
++unique..?
+
+--idea 3:--
+protect a fleet of [things], enemies try to kill them.
+
+player can boost and shoot enemies, trying to keep as many of the [things] alive.
+
++semi interesting
+-not terribly fun
+
+
+
+--idea 4 (3 + 1)--
+idea 1, but the central object is a fleet of [things]
