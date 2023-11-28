@@ -20,4 +20,13 @@ The game has the following featrues:
 - Procedural enemy waves
 - score & combo system
 - Powerups
-- perpetual highscores
+- persistent highscores
+
+## Credits
+This project uses a few assets that are not of my own creation.  
+Sources for these assets have been listed below:
+
+- Upheaval font by: Brian Kent
+- VCR OSD Mono font by: Riciery Leal
+- Background Music: Pixabay
+- The sound effects are not made by me, but I have been unable to track down the original source
